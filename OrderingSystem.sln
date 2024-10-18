@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "OrderingSystem", "OrderingSystem.vbproj", "{6DD80F2C-363D-46B5-9862-3CA8FEC96648}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "OrderingSystem", "OrderingSystem.vbproj", "{6DD80F2C-363D-46B5-9862-3CA8FEC96648}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
